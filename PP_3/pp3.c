@@ -8,7 +8,6 @@
 #define BUFFER_SIZE 50
 
 /* Rene Figueroa 
-   008894574
    CMPE 142
    Programming Project 3 */
 
